@@ -1,0 +1,3 @@
+.line:nth-child(even) td {
+  background-color: darkgrey;
+}

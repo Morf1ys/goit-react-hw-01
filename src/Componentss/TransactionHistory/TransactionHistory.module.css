@@ -1,0 +1,26 @@
+.tabl-cont {
+  width: 750px;
+  border-collapse: collapse;
+  margin: 0 auto;
+  margin-top: 20px;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.tabl-tr td {
+  padding: 8px;
+}
+.tabl-cont th,
+.tabl-cont td {
+  border: 2px solid black;
+  padding: 8px;
+  text-align: left;
+}
+.tabl-cont th {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.tabl-cont td {
+  background-color: #f2f2f2;
+  text-align: center;
+}

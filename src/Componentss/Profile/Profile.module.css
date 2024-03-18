@@ -1,0 +1,11 @@
+.profile-cont {
+  margin: 0 auto;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 362px;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid black;
+}

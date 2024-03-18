@@ -3,6 +3,7 @@
 body {
   font-family: sans-serif;
   line-height: 1.5;
+  background-color: aqua !important;
 }
 
 h1,
@@ -24,4 +25,7 @@ ol {
 img {
   display: block;
   max-width: 100%;
+}
+ul {
+  list-style: none;
 }
